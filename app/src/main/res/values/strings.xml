@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ramayan</string>
+    <string name="account_name">Micro Pineapplez</string>
+
+    <string name="rate_us">Rate us</string>
+    <string name="share">Share</string>
+    <string name="more_apps">More Apps</string>
+    <string name="start">START</string>
+    <string name="download">Download</string>
+    <string name="sampurn_ramayan">संपूर्ण रामायण</string>
+</resources>

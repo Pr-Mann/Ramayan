@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "640055065093",
+    "firebase_url": "https://wallpaper-fc8f2-default-rtdb.firebaseio.com",
+    "project_id": "wallpaper-fc8f2",
+    "storage_bucket": "wallpaper-fc8f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640055065093:android:baddb3af71b99aee29ba6c",
+        "android_client_info": {
+          "package_name": "com.micropineapplez.momotwicewallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640055065093-d7d5a8siv9nirfh57j9ct6b99jigfidm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5BU2Mo706Y1yEI-KsXysuT1aaMBzgmiQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640055065093-d7d5a8siv9nirfh57j9ct6b99jigfidm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640055065093:android:642aa50212e8955829ba6c",
+        "android_client_info": {
+          "package_name": "com.micropineapplez.ramayan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640055065093-d7d5a8siv9nirfh57j9ct6b99jigfidm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5BU2Mo706Y1yEI-KsXysuT1aaMBzgmiQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640055065093-d7d5a8siv9nirfh57j9ct6b99jigfidm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
